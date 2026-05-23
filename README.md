@@ -1,3 +1,4 @@
-# Trabalho de SQL - Abril - Unifecaf
+ *Trabalho de SQL - Abril - Unifecaf*
 ---
-Aqui deixo armazenado meu código SQL para a criação e inserção de dados e produtos de um sistema para um Supermercado simples.
+*Este projeto se refere a inserção de dados e produtos de um sistema para um Supermercado simples que realizei para meu primeiro projeto de SQL da faculdade.*
+
